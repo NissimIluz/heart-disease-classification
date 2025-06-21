@@ -18,14 +18,14 @@ This project demonstrates a full pipeline for classifying heart disease using ma
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/USERNAME/heart-disease-project.git
+git clone https://github.com/USERNAME/heart-disease-classification.git
 cd heart-disease-project
 ```
 
 ### 2. Create the conda environment:
 ```bash
 conda env create -f environment.yml
-conda activate heart-disease-project
+conda activate heart-disease-classification
 ```
 
 ### 3. Launch the notebook:
