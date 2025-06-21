@@ -7,7 +7,7 @@ This project demonstrates a full pipeline for classifying heart disease using ma
 ## 📁 Project Structure
 
 - `end-to-end-heart-disease-classification.ipynb` — The main notebook containing the full end-to-end workflow.
-- `data/` — Placeholder for data files (ignored in version control).
+- `data/` — Placeholder for data files.
 - `environment.yml` — Conda environment file with all required dependencies.
 - `.gitignore` — Specifies files and folders to exclude from Git.
 - `.vs/`, `.ipynb_checkpoints/`, `env/` — IDE metadata, notebook backups, and virtual environment folders.
