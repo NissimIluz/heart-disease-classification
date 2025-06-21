@@ -1,4 +1,4 @@
-name: C:\projects\ai-and-data-since-ztm\start_project\env
+name: C:\projects\heart-disease-project\env
 channels:
   - defaults
 dependencies:
