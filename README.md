@@ -28,6 +28,12 @@ conda env create -f environment.yml
 conda activate heart-disease-classification
 ```
 
+If you want to create the environment inside the project folder (e.g., ./env), use the following:
+```bash
+conda env create -f environment.yml -p ./env
+conda activate ./env
+```
+
 ### 3. Launch the notebook:
 ```bash
 jupyter notebook
