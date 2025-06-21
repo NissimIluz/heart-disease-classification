@@ -1,4 +1,4 @@
-name: C:\projects\heart-disease-project\env
+name: heart-disease-classification
 channels:
   - defaults
 dependencies:
@@ -174,4 +174,3 @@ dependencies:
   - zeromq=4.3.5=hd77b12b_0
   - zlib=1.2.13=h8cc25b3_1
   - zstd=1.5.6=h8880b57_0
-prefix: C:\projects\ai-and-data-since-ztm\start_project\env
